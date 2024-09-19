@@ -5,6 +5,7 @@ Simulacion de los algoritmos Round-Robin (planificacion de procesos) y NRU (pagi
 ## Características Clave
 
 - Implementación de Paginación Simple y asignación de memoria.
+- Asignacion de numeros de procesos y Quantum.
 - Uso del algoritmo de planificación Round Robin.
 - Tecla "T" - Tabla de Páginas para visualizar información en tiempo real de los procesos en ejecución y su asignación de memoria.
 - Tecla "E" - Error, "I" - Interrupción, "P" - Pausa, "C" - Continuar, "N" - Nuevo Proceso, "B" - BCP.
